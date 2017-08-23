@@ -1,4 +1,5 @@
 Lab øvinger 1
+
 1.	HTML står får Hyper Text Markup Language, og er språket som blir brukt på nettsider for å strukturere siden.
 2.	HTML5 er den nyeste versjonen d.d. av HTML.
 3.	Semantisk koding i HTML betyr at du bruker «Taggene» du finner i HTML til hva de er ment til.
