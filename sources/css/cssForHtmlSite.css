@@ -1,0 +1,50 @@
+body{
+    font-family: "Verdena", sans-serif;
+}
+.nav-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orangered;
+}
+.nav-bar li {
+    float: left;
+}
+.nav-bar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.nav-bar li a:hover{
+    background-color: firebrick;
+}
+.active{
+    background-color: red;
+}
+.showcase{
+    width:100%;
+    background-color: black;
+}
+.showcase img{
+    width:100%;
+}
+.showcase #text{
+    text-align: center;
+    color: white;
+}
+.showcase #text a{
+    color: white;
+    text-decoration: none;
+}
+.contentList{
+    width: 100%;
+}
+.contentList img{
+    width:100%;
+}
+.contentListImage{
+    width:10%;
+}

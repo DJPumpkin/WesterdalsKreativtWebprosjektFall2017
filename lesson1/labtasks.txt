@@ -1,0 +1,25 @@
+Lab øvinger 1
+1.	HTML står får Hyper Text Markup Language, og er språket som blir brukt på nettsider for å strukturere siden.
+2.	HTML5 er den nyeste versjonen d.d. av HTML.
+3.	Semantisk koding i HTML betyr at du bruker «Taggene» du finner i HTML til hva de er ment til.
+4.	Forholdet deres er at HTML strukturerer siden, mens CSS styler siden.
+5.	Doctype deklarasjonen sier til nettleseren hvilken versjon av HTML nettleseren skal forholde seg til når den viser dokumentet..
+6.	<!DOCTYPE html PUBLIX «-//W3C//DTD XHTML 1.0 Strict//EN» «http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd»>
+7.	<!DOCTYPE html>
+8.	4
+9.	6
+10.	<p></p>
+11.	<a href=””></a> en åpnings-tagg med en attributt og en avslutnings-tagg.
+12.	ul er ikke organisert, derfor viser taggen en liste sortert med prikker. ol taggen er organisert og viser derfor en liste sortert med tall.
+13.	ul bruker du til en liste som ikke skal organiseres. ol bruker du til en liste som skal organiseres.
+14.	sjekk task14.html
+15.	Du sjekker om koden er riktig skrevet.
+16.	en attributt er tilleggsinformasjon du gir til taggen den skrives i. Malen er: kodeord=«informasjon»
+17.	<blockquote>
+18.	Får å endre tema eller for å skille to elementer. Lager en horisontal linje i elementet det er i.
+19.	For å starte en ny linje.
+20.	For å skille to elementer. Gjør ingen synlige forandringer.
+21.	sjekk task21.html
+22.	legg til attributtet target=«_blank»
+23.	<!-- slik lager man en kommentar -->
+24. Bruke uorganiserte lister.
