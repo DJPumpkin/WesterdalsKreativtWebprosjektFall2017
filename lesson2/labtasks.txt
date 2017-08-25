@@ -1,0 +1,23 @@
+Lab øvinger 2
+1.  Til å style en nettside.
+2.  en css-regel er et stykke tekst som styler en spesifik del av en nettside - selector{kode:verdi};
+3.  der du spesifiserer hva du vil style.
+4.  tag/id/klasse.
+5.  id brukes og klasse kan brukes flere ganger.
+6.  sjekk task6.html
+7.  text-align: right;
+8.  img{width: <størelse>};
+9.  man referer til en id på siden istedenfor en link.
+10. til å strukturere kode som senere kan styles i css.
+11. true.
+12. border, margin og padding.
+13. false.
+14. nei, ikke border-width, men border generelt: <selector>{border: <størelse> <style> <color>};
+15. Det er når man deler opp ett rektangel i flere forskjellige rektangler. Sjekk task15.html.
+16. repeat-x og repeat-y repeterer bakgrunnsbildet i enten x eller y aksen. no-repeat stopper repeteringen av bakgrunnsbildet. repeat repeterer bakgrunnsbildet bådet vertikalt og horisontalt. initial gir grunnverdien. inherit får verdien fra relasjonselementet.
+17. sjekk task17.html.
+18. for å ha kontroll over whitespaces i en html element.
+19. sjekk task19.html.
+20. True, true og true.
+21. True.
+22. True.

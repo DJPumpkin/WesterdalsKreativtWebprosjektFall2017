@@ -1,0 +1,28 @@
+.container{
+    height:200px;
+    width:200px;
+}
+#rec1{
+    float:left;
+    width:50%;
+    height: 40%;
+    background-color: green;
+}
+#rec2{
+    float:left;
+    width:50%;
+    height:40%;
+    background-color: red;
+}
+#rec3{
+    float: left;
+    width:100%;
+    height:20%;
+    background-color: yellow;
+}
+#rec4{
+    float: left;
+    width:100%;
+    height:40%;
+    background-color: purple;
+}

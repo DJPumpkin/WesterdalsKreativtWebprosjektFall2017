@@ -1,0 +1,13 @@
+.container1{
+    float: left;
+    width:100px;
+    height: 100px;
+    background-color: aqua;
+}
+.container2{
+    float: left;
+    width:100px;
+    height: 100px;
+    background-color:crimson;
+    margin: -50px;
+}
