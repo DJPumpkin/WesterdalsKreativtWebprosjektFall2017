@@ -12,7 +12,7 @@ Lab øvinger 2
 11. true.
 12. border, margin og padding.
 13. false.
-14. nei, ikke border-width, men border generelt: <selector>{border: <størelse> <style> <color>};
+14. <selector>{border: <størelse> <style> <color>};
 15. Det er når man deler opp ett rektangel i flere forskjellige rektangler. Sjekk task15.html.
 16. repeat-x og repeat-y repeterer bakgrunnsbildet i enten x eller y aksen. no-repeat stopper repeteringen av bakgrunnsbildet. repeat repeterer bakgrunnsbildet bådet vertikalt og horisontalt. initial gir grunnverdien. inherit får verdien fra relasjonselementet.
 17. sjekk task17.html.
