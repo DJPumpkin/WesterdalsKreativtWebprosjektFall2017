@@ -1,0 +1,26 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+#container{
+    overflow: hidden;
+    background-color: black;
+    height: 100%;
+}
+#sumo-wrapper{
+    margin: auto;
+    width: 680px;
+    height: 300px;
+    border: 1px solid red;
+    overflow: hidden;
+}
+#sumo{
+    width: 200%;
+}
+#sumo-wrapper:hover #sumo{
+    margin-left: -450px;
+}
+#sumo-wrapper:hover{
+    border: 1px solid blue;
+}
