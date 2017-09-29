@@ -8,17 +8,119 @@ html, body{
     height: 100%;
     width: 10000px;
     overflow: hidden;
-    background-color: rgb(255,150,200);
+    background-color: rgb(100,150,200);
 }
 #subaru{
     position: fixed;
     bottom: 0;
     left: 100px;
     width: 150px;
+    z-index: 1;
+}
+#temple{
+    position: absolute;
+    bottom: 0;
+    left: 3000px;
+}
+#cat-wrap{
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    left: 3280px;
+    bottom: 230px;
+}
+#cat{
+    position: absolute;
+    bottom: 0;
+    height: 200px;
+}
+#cat-speech{
+    position: absolute;
+    background-color: white;
+    padding: 1.5rem;
+    font-size: 2rem;
+    border-radius: 3rem;
+    left: 100px;
+    bottom: 120px;
+    display: none;
+}
+#cat:hover~#cat-speech{
+    display: block;
 }
 .tree{
     position: absolute;
     bottom: 0;
-    left: 500px;
-    width: 400px;
+    height: 350px;
+}
+.tree-1{
+    left: 53px;;
+    z-index: 0;
+}
+.tree-2{
+    left: 833px;
+    z-index: 1;
+}
+.tree-3{
+    left: 372px;
+    z-index: 0;
+}
+.tree-4{
+    left: 120px;
+    z-index: 1;
+}
+.tree-5{
+    left: 328px;
+    z-index: 0;
+}
+.tree-6{
+    left: 882px;
+    z-index: 1;
+}
+.tree-7{
+    left: 941px;
+    z-index: 0;
+}
+.tree-8{
+    left: 239px;
+    z-index: 1;
+}
+.tree-9{
+    left: 523px;
+    z-index: 0;
+}
+.tree-10{
+    left: 833px;
+    z-index: 1;
+}
+.tree-11{
+    left: 1020px;
+    z-index: 0;
+}
+.tree-12{
+    left: 1120px;
+    z-index: 1;
+}
+.tree-13{
+    left: 2220px;
+}
+.tree-14{
+    left: 4320px;
+}
+.tree-15{
+    left: 4420px;
+}
+.tree-16{
+    left: 5520px;
+}
+.tree-17{
+    left: 6620px;
+}
+.tree-18{
+    left: 7720px;
+}
+.tree-19{
+    left: 8820px;
+}
+.tree-20{
+    left: 9920px;
 }
