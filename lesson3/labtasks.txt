@@ -1,0 +1,5 @@
+Lab øvinger 3
+
+1.  Padding, border og margin
+2.  <a> er som standard et inline element
+3.  display block elementer tar all plassen den har i raden sin på en webside, mens et inline element tar bare den plassen den trenger. Om du gjør et inline elemtent til et block element, så får elementet de samme egenskapene ett blockelement har og vise versa.

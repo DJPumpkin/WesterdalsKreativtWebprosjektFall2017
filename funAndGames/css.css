@@ -1,0 +1,14 @@
+html {
+    background-image: url(../sources/images/ane.JPG);
+    background-size: 100px;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 5rem;
+}
+h1:hover{
+    color: black;
+    background-color: white;
+}

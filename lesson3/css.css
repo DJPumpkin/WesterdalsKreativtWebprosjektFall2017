@@ -1,0 +1,53 @@
+#paragraphsTask1 p{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+#paragraphsTask2{
+    background-color: rgb(50,100,150);
+    color: white;
+    padding: 1rem;
+}
+#task3{
+    margin: -8px;
+}
+#paragraphsTask3 p{
+    background-color: rgb(50,100,150);
+    color: white;
+    padding: 1rem;
+    margin: 0;
+    border-bottom: 1rem solid rgb(0,50,100);
+}
+#task4{
+    margin: -8px;
+}
+#paragraphsTask4 p{
+    background-color: rgb(150,50,100);
+    color: white;
+    padding: 2rem;
+    font-family: fantasy;
+    font-size: 2rem;
+    margin-top: 0px;
+    border-bottom: 2rem solid rgb(0,50,100);
+}
+#task5{
+    margin: -8px;
+}
+#paragraphsTask5 p{
+    background-color: rgb(150,50,100);
+    color: white;
+    padding: 2rem;
+    font-family: fantasy;
+    font-size: 2rem;
+    margin-top: 0px;
+    border-bottom: 2rem solid rgb(0,50,100);
+    border-left: 2rem solid rgb(100,0,50);
+    border-top: 2rem solid rgb(0,100,50);
+    border-right: 2rem solid rgb(50,50,50);
+}
+#article{
+    background-color: rgb(240,240,240);
+    border: 1px solid rgb(223,223,223);
+    max-width: 17rem;
+    padding: 1rem;
+}
